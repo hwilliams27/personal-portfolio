@@ -792,7 +792,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .work .desc p {
   /* display: block; */
   padding-left: 10px;
-  padding-left: 10px;
+  padding-right: 10px;
   font-size: 12px;
   -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
   transition: transform 0.3s, opacity 0.3s;
